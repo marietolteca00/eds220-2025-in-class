@@ -1,5 +1,9 @@
 # Add data folder/ directory
 data/
+data week 4/
+# Ignoring DS.Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
